@@ -12,3 +12,4 @@ C:\Users\sheik\OneDrive\Desktop\solution13\project1\obj\Debug\net8.0\refint\proj
 C:\Users\sheik\OneDrive\Desktop\solution13\project1\obj\Debug\net8.0\project1.pdb
 C:\Users\sheik\OneDrive\Desktop\solution13\project1\obj\Debug\net8.0\project1.genruntimeconfig.cache
 C:\Users\sheik\OneDrive\Desktop\solution13\project1\obj\Debug\net8.0\ref\project1.dll
+C:\Users\sheik\OneDrive\Desktop\solution13\project1\obj\Debug\net8.0\project1.sourcelink.json
